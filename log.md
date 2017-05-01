@@ -3,13 +3,13 @@
 ### Day 0: May 01, 2017 (Example 1)
 ##### (delete me or comment me out)
 
-**Today's Progress**: Started 100 days of code and deliberate practice.
+**Today's Progress**: Started 100 days of code and deliberate practice. Worked on JavaScript on freeCodeCamp.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** JavaScript seems to be a lot like C++. Its a lot easier and way more user friendly than C++ but based on what I've learned so far, it seems like JavaScript can have security issues arise very easily.
 
 **Link to work:** [Calculator App](http://www.example.com)
 
-### Day 0: February 30, 2016 (Example 2)
+### Day 0: May 01, 2017 (Example 2)
 ##### (delete me or comment me out)
 
 **Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
