@@ -12,9 +12,9 @@
 ### Day 0: May 01, 2017 (Example 2)
 ##### (delete me or comment me out)
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Started on HTML. Got a little more than halfway through the course.
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts**: HTML is a little tricky. It's easy in one sense but a pain in another. I had a little bit of trouble with classes and nested elements within elements, especially when it comes to nesting multiple elements inside of one element, but I was able to work it out and get through those issues. 
 
 **Link(s) to work**: [Calculator App](http://www.example.com)
 
