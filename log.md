@@ -31,5 +31,10 @@
 **Today's Progress**: I'm almost all the way through JavaScript. Just a few more lessons and I can move on to OOFP.
 
 **Thoughts** I didn't get to finish up bootstrap like I originally wanted but I learned a lot more of JavaScript that I thought I would so it equalled out. I started having some trouble with JavaScript and that's why it wound up taking up so much of my time tonight. I'm currently on loops in JS right now, and it's not too difficult but I am having some translation problems between the format I learned in C++ and JS. The logic is still definitely the same. I think my biggest problem is in trying to move to fast through the challenges. Most of my mistakes are due to overlooking some small detail. I think if I take my time I'll find myself making a lot fewer mistakes. And I haven't forgotten about bootstrap. I want to finish that and will tomorrow, as long as I have the time to.
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+
+
+### Day 3: May 04, 2017
+
+**Today's Progress**: I got into the OOP part of JS today.
+
+**Thoughts** There was one part in the Basic JS section that I had to give up on today and it was really disheartening. I spent close to an hour on that one problem alone and I was never able to clear more than two of the test cases. I checked with some of my class mates to see if they were able to make any headway on it and no one I heard from had been able to clear that problem. I wound up skipping it and continuing on into the OOP part of JS but it's still aggrevating that I had to skip over a problem. I made more progress on the bootstrap section but didn't finish it yet. I'll prob finish that up tomorrow. Hopefully someone will have solved the problem I was having difficulty with and will help me to understand what I'm missing. Either way, tomorrow I'm going to finish OOP for JS and bootstrap and continue on to Basic Algorithm and Scripting. My goal is to make it at least half-way through that section tomorrow, assuming it's not going to be too difficult. Maybe I can even finish that section too. The Profile Lookup problem still bothers me though. I'll eventually get it. I'll wind up looking at it every day. No idea when I'll get it but I can't just leave it unfinished. I want to figure it out VERY badly.
