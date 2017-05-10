@@ -66,3 +66,12 @@
 **Today's Progress**: Finished bootstrap and one more basic algorithm problem.
 
 **Thoughts** So I took it a little light tonight. Lighter than all of my previous nights so far anyway. I finished up bootstrap and did one more problem on the basic algorithms section. It was the Slasher Flick problem and I blew right through it. The next one, Mutations, started to give me a little bit of trouble so I decided to go ahead and call it a night early. I'm gonna have to do that for the rest of the week too since this is the last week of the spring semester and I need to focus of studying for my finals. But even with finals all week, I still consider tonight a success simply because I made it a point to not only get online and spend at least an hour practicing, but I also kept up with this log, and it's no longer a requirement. Tomorrow, since I still have my OOP class to study for, I will keep it light again and I only plan on doing some of the jQuery section. At least half would be good I think, unless I start flying through it, then I'll just finish it. And I'll take a look at the next algorithm problem but I'm not going to spend too much time on it. Once this week is over though, I'm going to be making sure I get at least 2 hours in every day.
+
+
+
+### Day 8: May 09, 2017
+
+**Today's Progress**: Finished practice problems for my OOP final.
+
+**Thoughts** Tonight was a little different than the last week. Tonight I focused on completeing the practice problems Mr Welch gave us to help review for our final exam tomorrow. I got on discord and helped one of my classmates a little to understand the third program. I've learned that I'm pretty good at arrays and how to fill, and pass, and change them, but I'm lacking when it comes to vectors. And I could use some more work practicing with pointers. I feel like I'm ready for this exam. I'll have all day tomorrow to study and practice so I'll do some more of that starting in the morning. As for now, I'm going to get a good nights rest so I can make sure I'm fully rested for the exam. I did all of my code so far of visual studios so I can't push my code for the three practice problems to github yet, but as soon as I get time I'm going to recreate my code in ubuntu and push it to git. Prob next week, when I'll have a lot of free time since summer classes don't start til jun 5th.
+
