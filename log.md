@@ -82,3 +82,11 @@
 
 **Thoughts** I feel a little lonely, now that the semester is over. No more grades or any need to do anything anymore. But I remember what Mr Welch said, don't fall into only programming when you have a class. Find something to do on your own. I feel a little bad too because I didn't do any programming yesterday, except practice for the final in OOP and then the actual test once I got to class, and I haven't done any programming today. After programming almost every day for 4 months it becomes a habit and you feel weird once you go longer than a day without adhering to that habit. It's like an addiction. But, I haven't forgotten my goals. I'm taking my final test tomorrow for my last class and then I'm done until summer semester starts on june 5th. Also, for the last two days, I've been thinking of a summer project I can give myself. I don't really have much free time to get into the coding scene in austin, even though it's only an hour away, but I'll try to look for some events and meetups here in the killeen area. I need to stay proactive though. Beyond continuing on with the code camp, I need to become more proficient in git, I need to keep programing, and I need a project. More on that later. I'm gonna get back on code camp tomorrow sometime and get back in the swing of things.
 
+
+### Day 10: May 15, 2017
+
+**Today's Progress**: Learning Git.
+
+**Thoughts** The last couple of days have been pretty rough. Even today hasn't been very productive. End of classes plus mothers day weekend have made for a very full past couple of days but I have a little bit of free time today so I'm going to brush up on git, since I was still having trouble understanding everything about it at the end of class last week. I'm going to continue on with code camp and my C++ book because we didn't get to cover everything in class, but first I'm going to switch gears a little and learn git so I can start making use of my VM and start running all of my coding practice there and pushing it all to git.
+
+
